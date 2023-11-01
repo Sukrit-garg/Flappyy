@@ -1,6 +1,6 @@
 # flappy_bird
 
-A clone of Flappy Bird game.
+This project is an attempt to clone the famous Flappy Bird game.
 
 ## Getting Started
 
