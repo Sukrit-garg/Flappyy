@@ -1,4 +1,4 @@
-# flappy_bird
+# flappyy
 
 This project is an attempt to clone the famous Flappy Bird game.
 
